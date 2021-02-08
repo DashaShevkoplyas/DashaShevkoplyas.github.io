@@ -2,12 +2,12 @@
 
 **Phone:**+38(067)166-24-41
 
-**E-mail:** [shevkoplyasdarya23@gmail.com]
+**E-mail:** shevkoplyasdarya23@gmail.com
 
-**Skype:** Дарья Шевкопляс ([shevkoplyasdarya23@gmail.com])
+**Skype:** Дарья Шевкопляс (shevkoplyasdarya23@gmail.com)
 
 
-**Linkedin:** [https://www.linkedin.com/in/dashashevkoplyas]
+**Linkedin:** https://www.linkedin.com/in/dashashevkoplyas
 
 **City:** Kharkiv
 
