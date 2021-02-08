@@ -1,5 +1,3 @@
- ### Resume
-
 # Personal Information
 
 **Phone:**+38(067)166-24-41
@@ -41,10 +39,10 @@ Computer Sciences (winter semester).
 
 # Experience
 
-Oct 2020 – Present Junior Java Developer at bit media e-solutions GmbH.
-**Tasks:** Bug fixing, feature implementation, setting up CI/CD
+**Oct 2020 – Present** Junior Java Developer at bit media e-solutions GmbH.
+**_Tasks:_** Bug fixing, feature implementation, setting up CI/CD
 (Gitlab), code refactoring, unit testing, client implementation for locally set up
 mail servers (Apache James, ZoneMTA), web-service testing.
 
-**Technologies:** Java, Spring Boot, Maven, JavaScript, Oracle, Jmeter,
+**_Technologies:_** Java, Spring Boot, Maven, JavaScript, Oracle, Jmeter,
 Docker, Apache Tomcat, Apache James, Gitlab.
